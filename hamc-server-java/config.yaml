@@ -9,10 +9,28 @@ arch:
   - armv7
 ports:
   25565/tcp: "25565"
-  25575/tcp: "25575"
+  25575/tcp: null
+  8100/tcp: null
+  8123/tcp: null
+  8800/tcp: null
+  8080/tcp: null
+  9000/tcp: null
+  30000/tcp: null
+  30001/tcp: null
+  31000/tcp: null
+  31001/tcp: null
 ports_description:
-  25565/tcp: Minecraft Server Port
-  25575/tcp: RCON Port
+  25565/tcp: Minecraft Java Server (port principal du jeu)
+  25575/tcp: RCON - Console distante d'administration
+  8100/tcp: BlueMap - Carte web 3D interactive
+  8123/tcp: Dynmap - Carte web 2D/3D en temps réel
+  8800/tcp: Plan - Dashboard de statistiques joueurs/serveur
+  8080/tcp: Interface web générique pour plugins/dashboards
+  9000/tcp: Interface web alternative pour mods ou API
+  30000/tcp: Port libre pour services web ou API personnalisés
+  30001/tcp: Port libre alternatif pour services personnalisés
+  31000/tcp: Port plugins/mods web supplémentaires
+  31001/tcp: Port plugins/mods web supplémentaires alternatif
 options:
   VERSION: LATEST
   SERVER_NAME: "HAMC Java Server"
