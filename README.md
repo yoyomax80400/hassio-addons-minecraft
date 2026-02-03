@@ -11,5 +11,5 @@ My custom Home Assistant add-ons. Templates thanks to [alexbelgium](https://gith
 - [HAMC-server-bedrock](hamc-server-bedrock/): Minecraft (bedrock) server.
 
 - [HAMC-server-java](hamc-server-java/): Minecraft (java) server.
+  
 
-- [MS-rewards](msrewards/): Automated Microsoft Rewards point collection.
