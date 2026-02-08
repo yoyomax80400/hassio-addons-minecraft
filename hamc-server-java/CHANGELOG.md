@@ -1,5 +1,8 @@
 ## next
 
+## 1.2.2
+- Exposed the Geyser Port At UDP
+
 ## 1.2.0
 
 - Exposed the RCON port (25575) for remote console access. Ensure to set a strong `RCON_PASSWORD` in the configuration to use this feature.
