@@ -135,11 +135,12 @@ Default port: **25575**
 
 ## ❤️ Credits
 
-Based on the Home Assistant Add-on system and the Minecraft server ecosystem.
+Fork Based on the Home Assistant Add-on : https://github.com/williamcorsel/hassio-addons
 
 ---
 
 ## 🧑‍💻 Maintainer
 
 Replace with your GitHub username
+
 
