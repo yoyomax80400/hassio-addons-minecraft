@@ -137,10 +137,6 @@ Default port: **25575**
 
 Fork Based on the Home Assistant Add-on : https://github.com/williamcorsel/hassio-addons
 
----
 
-## 🧑‍💻 Maintainer
-
-Replace with your GitHub username
 
 
